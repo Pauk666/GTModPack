@@ -877,6 +877,110 @@ Railcraft:signal:10, Analog Signal Controller Box
 Railcraft:signal:7, Signal Capacitor Box
 Railcraft:signal:6, Signal Sequencer Box
 Railcraft:signal:0, Signal Interlock Box
+Railcraft:stair:3, Snow Stairs
+Railcraft:stair:4, Ice Stairs
+Railcraft:stair:5, Packed Ice Stairs
+Railcraft:stair:6, Iron Stairs
+Railcraft:stair:43, Steel Stairs
+Railcraft:stair:40, Copper Stairs
+Railcraft:stair:41, Tin Stairs
+Railcraft:stair:42, Lead Stairs
+Railcraft:stair:7, Gold Stairs
+Railcraft:stair:8, Diamond Stairs
+Railcraft:stair:39, Obsidian Stairs
+Railcraft:stair:2, Concrete Stairs
+Railcraft:stair:38, Creosote Block Stairs
+Railcraft:stair:13, Abyssal Brick Stairs
+Railcraft:stair:20, Fitted Abyssal Stone Stairs
+Railcraft:stair:28, Abyssal Block Stairs
+Railcraft:stair:36, Abyssal Cobble Stairs
+Railcraft:stair:1, Infernal Brick Stairs
+Railcraft:stair:15, Fitted Infernal Stone Stairs
+Railcraft:stair:23, Infernal Block Stairs
+Railcraft:stair:31, Infernal Cobble Stairs
+Railcraft:stair:12, Blood Stained Brick Stairs
+Railcraft:stair:19, Fitted Blood Stained Stone Stairs
+Railcraft:stair:27, Blood Stained Block Stairs
+Railcraft:stair:35, Blood Stained Cobble Stairs
+Railcraft:stair:0, Sandy Brick Stairs
+Railcraft:stair:14, Fitted Sandy Stone Stairs
+Railcraft:stair:22, Sandy Block Stairs
+Railcraft:stair:30, Sandy Cobble Stairs
+Railcraft:stair:11, Bleached Bone Brick Stairs
+Railcraft:stair:18, Fitted Bleached Bone Stone Stairs
+Railcraft:stair:26, Bleached Bone Block Stairs
+Railcraft:stair:34, Bleached Bone Cobble Stairs
+Railcraft:stair:21, Fitted Nether Stone Stairs
+Railcraft:stair:29, Nether Block Stairs
+Railcraft:stair:37, Nether Cobble Stairs
+Railcraft:stair:10, Quarried Brick Stairs
+Railcraft:stair:17, Fitted Quarried Stone Stairs
+Railcraft:stair:25, Quarried Block Stairs
+Railcraft:stair:33, Quarried Cobble Stairs
+Railcraft:stair:9, Frost Bound Brick Stairs
+Railcraft:stair:16, Fitted Frost Bound Stone Stairs
+Railcraft:stair:24, Frost Bound Block Stairs
+Railcraft:stair:32, Frost Bound Cobble Stairs
+Railcraft:slab:3, Snow Slab
+Railcraft:slab:4, Ice Slab
+Railcraft:slab:5, Packed Ice Slab
+Railcraft:slab:6, Iron Slab
+Railcraft:slab:43, Steel Slab
+Railcraft:slab:40, Copper Slab
+Railcraft:slab:41, Tin Slab
+Railcraft:slab:42, Lead Slab
+Railcraft:slab:7, Gold Slab
+Railcraft:slab:8, Diamond Slab
+Railcraft:slab:39, Obsidian Slab
+Railcraft:slab:2, Concrete Slab
+Railcraft:slab:38, Creosote Block Slab
+Railcraft:slab:13, Abyssal Brick Slab
+Railcraft:slab:20, Fitted Abyssal Stone Slab
+Railcraft:slab:28, Abyssal Block Slab
+Railcraft:slab:36, Abyssal Cobble Slab
+Railcraft:slab:1, Infernal Brick Slab
+Railcraft:slab:15, Fitted Infernal Stone Slab
+Railcraft:slab:23, Infernal Block Slab
+Railcraft:slab:31, Infernal Cobble Slab
+Railcraft:slab:12, Blood Stained Brick Slab
+Railcraft:slab:19, Fitted Blood Stained Stone Slab
+Railcraft:slab:27, Blood Stained Block Slab
+Railcraft:slab:35, Blood Stained Cobble Slab
+Railcraft:slab:0, Sandy Brick Slab
+Railcraft:slab:14, Fitted Sandy Stone Slab
+Railcraft:slab:22, Sandy Block Slab
+Railcraft:slab:30, Sandy Cobble Slab
+Railcraft:slab:11, Bleached Bone Brick Slab
+Railcraft:slab:18, Fitted Bleached Bone Stone Slab
+Railcraft:slab:26, Bleached Bone Block Slab
+Railcraft:slab:34, Bleached Bone Cobble Slab
+Railcraft:slab:21, Fitted Nether Stone Slab
+Railcraft:slab:29, Nether Block Slab
+Railcraft:slab:37, Nether Cobble Slab
+Railcraft:slab:10, Quarried Brick Slab
+Railcraft:slab:17, Fitted Quarried Stone Slab
+Railcraft:slab:25, Quarried Block Slab
+Railcraft:slab:33, Quarried Cobble Slab
+Railcraft:slab:9, Frost Bound Brick Slab
+Railcraft:slab:16, Fitted Frost Bound Stone Slab
+Railcraft:slab:24, Frost Bound Block Slab
+Railcraft:slab:32, Frost Bound Cobble Slab
+Railcraft:lantern.stone:0, Abyssal Stone Lantern
+Railcraft:lantern.stone:1, Bleached Bone Stone Lantern
+Railcraft:lantern.stone:2, Blood Stained Stone Lantern
+Railcraft:lantern.stone:3, Frostbound Stone Lantern
+Railcraft:lantern.stone:4, Infernal Stone Lantern
+Railcraft:lantern.stone:5, Nether Stone Lantern
+Railcraft:lantern.stone:6, Quarried Stone Lantern
+Railcraft:lantern.stone:7, Sandy Stone Lantern
+Railcraft:lantern.stone:8, Sandstone Lantern
+Railcraft:lantern.stone:9, Stone Lantern
+Railcraft:lantern.metal:0, Iron Lantern
+Railcraft:lantern.metal:1, Gold Lantern
+Railcraft:lantern.metal:2, Copper Lantern
+Railcraft:lantern.metal:3, Tin Lantern
+Railcraft:lantern.metal:4, Lead Lantern
+Railcraft:lantern.metal:5, Steel Lantern
 Railcraft:brick.abyssal:0, Abyssal Brick
 Railcraft:brick.abyssal:1, Fitted Abyssal Stone
 Railcraft:brick.abyssal:2, Abyssal Block
@@ -963,6 +1067,31 @@ Railcraft:post.metal.platform:12, Light Blue Metal Platform
 Railcraft:post.metal.platform:13, Magenta Metal Platform
 Railcraft:post.metal.platform:14, Orange Metal Platform
 Railcraft:post.metal.platform:15, White Metal Platform
+Railcraft:wall.alpha:0, Infernal Brick Wall
+Railcraft:wall.alpha:1, Sandy Brick Wall
+Railcraft:wall.alpha:2, Concrete Wall
+Railcraft:wall.alpha:3, Snow Wall
+Railcraft:wall.alpha:4, Ice Wall
+Railcraft:wall.alpha:5, Stone Brick Wall
+Railcraft:wall.alpha:6, Mossy Stone Brick Wall
+Railcraft:wall.alpha:7, Cracked Stone Brick Wall
+Railcraft:wall.alpha:8, Chiseled Stone Brick Wall
+Railcraft:wall.alpha:9, Nether Brick Wall
+Railcraft:wall.alpha:10, Brick Wall
+Railcraft:wall.alpha:11, Sandstone Wall
+Railcraft:wall.alpha:12, Chiseled Sandstone Wall
+Railcraft:wall.alpha:13, Smooth Sandstone Wall
+Railcraft:wall.alpha:14, Obsidian Wall
+Railcraft:wall.alpha:15, Frost Bound Brick Wall
+Railcraft:wall.beta:0, Quartz Wall
+Railcraft:wall.beta:1, Chiseled Quartz Wall
+Railcraft:wall.beta:2, Iron Wall
+Railcraft:wall.beta:3, Gold Wall
+Railcraft:wall.beta:4, Diamond Wall
+Railcraft:wall.beta:5, Abyssal Brick Wall
+Railcraft:wall.beta:6, Quarried Brick Wall
+Railcraft:wall.beta:7, Blood Stained Brick Wall
+Railcraft:wall.beta:8, Bleached Bone Brick Wall
 Railcraft:glass:0, Strengthened Glass
 Railcraft:glass:1, Strengthened Glass
 Railcraft:glass:2, Strengthened Glass
@@ -2693,6 +2822,41 @@ Forestry:stairsFireproof:26, Padauk Stairs (Fireproof)
 Forestry:stairsFireproof:27, Cocobolo Stairs (Fireproof)
 Forestry:stairsFireproof:28, Zebrawood Stairs (Fireproof)
 Forestry:saplingGE:0, Sapling
+Forestry:leaves:0, Apple Oak Leaves
+Forestry:leaves:0, Dark Oak Leaves
+Forestry:leaves:0, Silver Birch Leaves
+Forestry:leaves:0, Silver Lime Leaves
+Forestry:leaves:0, Common Walnut Leaves
+Forestry:leaves:0, Sweet Chestnut Leaves
+Forestry:leaves:0, Hill Cherry Leaves
+Forestry:leaves:0, Lemon Leaves
+Forestry:leaves:0, Plum Leaves
+Forestry:leaves:0, Sugar Maple Leaves
+Forestry:leaves:0, Red Spruce Leaves
+Forestry:leaves:0, Mundane Larch Leaves
+Forestry:leaves:0, Bull Pine Leaves
+Forestry:leaves:0, Coast Sequoia Leaves
+Forestry:leaves:0, Giant Sequoia Leaves
+Forestry:leaves:0, Jungle Leaves
+Forestry:leaves:0, Teak Leaves
+Forestry:leaves:0, Ipe Leaves
+Forestry:leaves:0, Kapok Leaves
+Forestry:leaves:0, Myrtle Ebony Leaves
+Forestry:leaves:0, Zebrawood Leaves
+Forestry:leaves:0, Yellow Meranti Leaves
+Forestry:leaves:0, Acacia Leaves
+Forestry:leaves:0, Desert Acacia Leaves
+Forestry:leaves:0, Padauk Leaves
+Forestry:leaves:0, Balsa Leaves
+Forestry:leaves:0, Cocobolo Leaves
+Forestry:leaves:0, Wenge Leaves
+Forestry:leaves:0, Grandidier's Baobab Leaves
+Forestry:leaves:0, Blue Mahoe Leaves
+Forestry:leaves:0, White Willow Leaves
+Forestry:leaves:0, Sipiri Leaves
+Forestry:leaves:0, Papaya Leaves
+Forestry:leaves:0, Date Palm Leaves
+Forestry:leaves:0, White Poplar Leaves
 Forestry:pods:0, Pod
 Forestry:arboriculture:0, Arborist's Chest
 Forestry:engine:0, Electrical Engine
@@ -2775,13 +2939,11 @@ Forestry:mail:2, Stamp Collector
 gendustry:fluid.Mutagen, Mutagen
 gendustry:fluid.LiquidDNA, Liquid DNA
 gendustry:fluid.Protein, Protein
-gendustry:MutagenProducer, Mutagen Producer
 gendustry:Mutatron, Mutatron
 gendustry:IndustrialApiary, Industrial Apiary
 gendustry:Imprinter, Genetic Imprinter
 gendustry:Sampler, Genetic Sampler
 gendustry:MutatronAdv, Advanced Mutatron
-gendustry:Liquifier, Protein Liquifier
 gendustry:Extractor, DNA Extractor
 gendustry:Transposer, Genetic Transposer
 gendustry:Replicator, Genetic Replicator
@@ -8279,6 +8441,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Cleanroom Wall
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Cleanroom Air Filter
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Lamp
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -14677,12 +14843,10 @@ OpenComputers:item:42, Central Processing Unit (CPU) (Tier 2)
 OpenComputers:item:43, Central Processing Unit (CPU) (Tier 3)
 OpenComputers:item:33, Card Base
 OpenComputers:item:96, Chamelium
-OpenComputers:item:31, Circuit Board
 OpenComputers:item:70, Component Bus (Tier 1)
 OpenComputers:item:71, Component Bus (Tier 2)
 OpenComputers:item:72, Component Bus (Tier 3)
 OpenComputers:item:28, Control Unit (CU)
-OpenComputers:item:17, Cutting Wire
 OpenComputers:item:104, Data Card (Tier 1)
 OpenComputers:item:105, Data Card (Tier 2)
 OpenComputers:item:106, Data Card (Tier 3)
@@ -14723,6 +14887,7 @@ OpenComputers:item:22, Numeric Keypad
 OpenComputers:item:32, Printed Circuit Board (PCB)
 OpenComputers:item:30, Raw Circuit Board
 OpenComputers:item:66, Redstone Card (Tier 1)
+OpenComputers:item:12, Redstone Card (Tier 2)
 OpenComputers:item:45, Server (Tier 1)
 OpenComputers:item:46, Server (Tier 2)
 OpenComputers:item:40, Server (Tier 3)
